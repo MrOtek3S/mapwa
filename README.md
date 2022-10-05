@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure MrOtek3S Map 
 
 ![map](./map.png)
 
